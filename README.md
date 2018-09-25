@@ -1,1 +1,1 @@
-# rock-paper-scissors
+Joni Young's rock-paper-scissors game
